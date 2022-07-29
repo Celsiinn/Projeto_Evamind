@@ -1,0 +1,22 @@
+#deslogado{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#Login{
+    text-align: center;
+
+}
+
+#campo-login , #campo-senha{
+    width: 232px;
+    height: 21px;
+}
+
+
+#botao{
+    color: black;
+    background-color: #4bf605;
+    width: 250px;
+}
